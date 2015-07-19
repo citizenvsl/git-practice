@@ -1,2 +1,2 @@
 # git-practice
-Exescise on how to use github
+Exercise on how to use github
